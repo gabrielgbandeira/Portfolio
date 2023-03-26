@@ -35,8 +35,8 @@
 			 	<li><a href="<?php ECHO INCLUDE_PATH; ?>Contato">Contato</a></li>
 				</ul>
 			</nav>
-	<div class="clear"></div><!--clear-->
-	</div><!--center-->
+		<div class="clear"></div><!--clear-->
+		</div><!--center-->
 	</header>
 <?php 
 	$url = isset($_GET['url']) ? $_GET['url'] : 'Home';
@@ -78,7 +78,6 @@
 		</div>
 </footer>
 <script src="<?php echo INCLUDE_PATH; ?>js/jquery.js"></script>
-<script src="<?php echo INCLUDE_PATH; ?>js/constants.js"></script>
 <script src="<?php echo INCLUDE_PATH; ?>js/scripts.js"></script>
 
 </body>

@@ -87,9 +87,13 @@
 				<ul>
 					<li>HTML5,CSS3, PHP,JAVASCRIPT;</li>
 					<li>TYPESCRIPT, REACT, NODEJS;</li>
+					<p></p>
 					<li>JQUERRY MOBILE/UI, QUERY SELECTION;</li>
+					<p></p>
 					<li>DESIGN RESPONSIVO;</li>
+					<p></p>
 					<li>FOTOPHOP-LAYOUT;</li>
+					<p></p>
 					<li>BOOTSTRAP V5;</li>
 					<li>ANGULAR 7.0+CLI;</li>
 					<li>VUE JS, SASS E LESS;</li>

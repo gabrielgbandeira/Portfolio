@@ -276,7 +276,9 @@ section.erro-404 a{
 	position: absolute;
 	top: 50%;
 }
+
 /**SERVIÇOS**/
+
 .projetos ul{
 	width: 20%;
 	margin-bottom: 60px;
@@ -347,7 +349,7 @@ section.erro-404 a{
 		color: white;
 	}
 	nav.mobile ul{
-		top: 	41px;
+		top:41px;
 		position: absolute;
 		left: 0;
 		right: 0;
