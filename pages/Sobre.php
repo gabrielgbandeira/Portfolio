@@ -19,7 +19,7 @@
 		</div><!--w50-->
 		<div class= "w50 left">
 			<!--pegar-imagem-depois-->
-			<img class= "rigth" src="<?php ECHO INCLUDE_PATH; ?>imagens/eu.jpg"/>
+			<img class= "rigth" src="<?php ECHO INCLUDE_PATH; ?>imagens/eu.png"/>
 		</div><!--w50-->
 		<div class="clear"></div>
 		<div><!--center-->
