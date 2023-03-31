@@ -1,4 +1,4 @@
 <?php
-define('INCLUDE_PATH','https://gabrielgbandeira.github.io/Portfolio/')
+define('INCLUDE_PATH','https://gabrielbandeiradev.com.br/')
 
 ?>
